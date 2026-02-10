@@ -14,4 +14,4 @@ The buggy modules got removed from the code before getting posted on the public 
 
 # How to download?
 
-Download from the [releases tab](https://github.com/BloraMc/BoxingClient-v2/releases).
+Download from the [releases tab](https://github.com/BloraMc/BoxingClient-v2-public/releases).
