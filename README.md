@@ -1,4 +1,5 @@
 # BoxingClient v2
+**Please don't use this**
 
 BoxingClient v2 is succesor to the original BoxingClient, a "ghost client" for Minecraft 1.8.9. It is a basic client for Minecraft 1.8.9 with modules to help with gameplay.
 
