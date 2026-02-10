@@ -9,6 +9,8 @@ The code is really bad and was quickly done. The modules that work work well, so
 Some features such as **ISP, Aim Assist, and AutoClicker** work great! As of 09/02/2026, those work on some anticheats (Polar, GrimAC, AGC).
 The code is not public, however the code is really bad and **not obfuscated**, you can just decompile it if you wanted to. You can download the client but I **do not recommend using it on public servers!!!**
 
+The buggy modules got removed from the code before getting posted on the public repo.
+
 # How to download?
 
 Download from the [releases tab](https://github.com/BloraMc/BoxingClient-v2/releases).
